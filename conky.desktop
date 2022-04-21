@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Conky
+Exec=conky --daemonize --pause=5 -c "/home/javid/.conky/custom-config/config.conkyrc"
+StartupNotify=false
+Terminal=false
