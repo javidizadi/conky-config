@@ -1,2 +1,2 @@
 killall conky
-sleep 20s && conky -c "$HOME/.conky/Javid.conkyrc" &
+sleep 20s && conky -c "$HOME/.conky/custom-config/config.conkyrc" &
