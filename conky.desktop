@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=Conky
-Exec=conky --daemonize --pause=20 -c "/home/javid/.conky/custom-config/config.conkyrc"
+Name=Conky Customized
+Icon=conky
+Exec=/usr/bin/conky --daemonize --pause=10 -c "/home/javid/.config/conky/config.conkyrc"
 StartupNotify=false
 Terminal=false
